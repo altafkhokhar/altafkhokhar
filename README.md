@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @altafkhokhar
 - 👀 I’m interested in software development and architectural stuff.
-- 🌱 I’m currently learning ...
+- 🌱 High exposures in asp.net MVC, C#, javascript, ADO.net, jquery, .net core, SQL server, NOSQL DB, web API, Rabbitmq, ElasticSearch.
 - 💞️ I’m looking to collaborate on build prototype and product that helps human by utilizing technology.
 - 📫 How to reach me ...
 
